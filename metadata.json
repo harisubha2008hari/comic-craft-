@@ -1,0 +1,6 @@
+{
+  "name": "ComicCraft Studio",
+  "description": "VS Code-inspired comic creation IDE featuring integrated script organization, panel layout designer, image editing tools, and speech bubble effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
